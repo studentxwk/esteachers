@@ -1,0 +1,21 @@
+.detail{
+	border:1px solid #ccc;
+	position: relative;
+	min-height:400px;
+}
+.detail-title{
+	line-height:20px;
+	border-bottom:1px dashed #ccc;
+	text-align:center;
+	font-size:16px;
+	color:red;
+}
+.detail-content{
+	padding:20px;
+	
+}
+.canvas{
+	position: absolute;
+	top:0;
+	right:-40px;
+}

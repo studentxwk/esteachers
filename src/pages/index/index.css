@@ -1,0 +1,51 @@
+.index-contain{
+	position: relative;
+	/*margin-top:6px;*/
+	border: 1px solid #f44;
+}
+.index-title{
+	line-height: 25px;
+	padding:0 10px;
+	font-size: 12px;
+	color:#fff;	
+	background: #f40;
+}
+.index-list {
+    margin-top: 7px;
+}
+.index-item {
+    height: 22px;
+    font-size: 12px;
+}
+.link-title {
+    color: rgb(160, 138, 33);
+    line-height: 22px;
+    margin-left: 10px;
+    padding-top: 1px;
+}
+.link-contain {
+    color: #004499;
+    line-height: 22px;
+    margin-left: 10px;
+    padding-top: 1px;
+}
+#main{
+	position: absolute;
+	top: 0;
+	right:10px;
+}
+.foot{
+	margin-top:5px
+}
+.index-list-foot{
+	/*width:1024px;*/
+	overflow: hidden;
+	border: 1px solid #FF4444;
+}
+.index-foot{
+	line-height: 25px;
+    width: 84px;
+    float: left;
+    text-align: center;
+    font-size: 12px;
+}

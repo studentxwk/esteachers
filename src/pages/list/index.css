@@ -1,0 +1,18 @@
+.list-contain{
+	margin-top:6px;
+	border-top: 1px solid #f44;
+	position: relative;
+	min-height: 500px;
+}
+.list-contain-title{
+	line-height: 25px;
+	padding:0 10px;
+	font-size: 12px;
+	color:#fff;	
+	background: #f40;
+}
+#canvas{
+	position:absolute;
+	right:10px;
+	top:40px;
+}
